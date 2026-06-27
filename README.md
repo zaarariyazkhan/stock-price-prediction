@@ -13,7 +13,7 @@ Predicting closing prices of NSE stocks using ML models.
 - Validated on TCS.NS
 
 ## Live Dashboard
-[Click here to view the app](stock-price-prediction-px4bxb2vx2kt4zabgwb3ez.streamlit.app)
+[Click here to view the app](https://stock-price-prediction-px4bxb2vx2kt4zabgwb3ez.streamlit.app)
 
 ## Tech Stack
 Python, Streamlit, TensorFlow, Scikit-learn, yFinance, Pandas
